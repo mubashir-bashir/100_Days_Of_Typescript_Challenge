@@ -3,8 +3,8 @@
 var Myname = "Mubashir";
 // Function to convert a string to title case
 function titlecase(name) {
-    // Capitalize the first character and concatenate it with the rest of the string
-    return name.charAt(0).toUpperCase() + name.slice(1);
+  // Capitalize the first character and concatenate it with the rest of the string
+  return name.charAt(0).toUpperCase() + name.slice(1);
 }
 // Output the name in uppercase, lowercase, and titlecase
 console.log(Myname.toUpperCase()); // Outputs: MUBASHIR
