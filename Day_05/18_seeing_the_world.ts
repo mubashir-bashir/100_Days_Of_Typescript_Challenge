@@ -10,7 +10,7 @@
 // • Sort your array so it’s stored in alphabetical order. Print the array to show that its order has been changed.
 // • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
-let fav_places = ["Venice", "Taj Mahal", "Mount Everest", "Tokyo Japan", "Great Wall of China"];
+let fav_places = ["Venice", "Taj Mahal",D "Mount Everest", "Tokyo Japan", "Great Wall of China"];
 
 // Original order
 console.log("Printing the array in its original order:");
