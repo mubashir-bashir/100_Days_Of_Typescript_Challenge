@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var names = ["Mubashir", "Ali", "Adnan", "Mohsin"];
-for (var i = 0; i < names.length; i++) {
-    console.log("Hello ".concat(names[i], " how are you?"));
+let names = ["Mubashir", "Ali", "Adnan", "Mohsin"];
+for (let i = 0; i < names.length; i++) {
+    console.log(`Hello ${names[i]} how are you?`);
 }
